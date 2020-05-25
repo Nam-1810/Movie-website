@@ -1,0 +1,42 @@
+
+.red{
+	color:white;
+	background-color: red;
+}
+
+.seat {
+          height: 50px;
+          width: 50px;
+	margin-right: 10px;
+          border: 1px solid gray;
+         cursor:pointer;
+   color: black;
+   display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+      }
+
+      .walk{
+          padding-left:80px;
+      }
+      #driver {
+          background-color:gray;          
+          height: 80px;
+	font-size : 50px;
+	color: white;
+	 display: flex;
+	align-items: center;
+  justify-content: center;
+  font-weight: bold;
+      }
+
+#table1 {
+
+  border-collapse:separate; 
+  border-spacing: 0 1em;
+  margin-left: 100px;
+  width: 50%;
+	margin: 0 auto;
+}
+
